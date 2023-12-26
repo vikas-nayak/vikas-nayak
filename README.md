@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings, fellow Earthlings!<br><br>I'm Vikas, a web developer on a mission to turn coffee into clean code. With a penchant for crafting seamless online experiences, I specialize in HTML, CSS, and JavaScript wizardry. When I'm not battling bugs, you can find me turning "404 Not Found" pages into delightful destinations.<br><br>Let's collaborate and make the web a better place, one line of code at a time! 👩‍💻✨
+Greetings, fellow Earthlings!<br><br>I'm Vikas, a web developer on a mission to turn coffee into clean code. With a penchant for crafting seamless online experiences, I specialize in React, HTML, CSS, and JavaScript and WordPress wizardry. When I'm not battling bugs, you can find me turning "404 Not Found" pages into delightful destinations.<br><br>Let's collaborate and make the web a better place, one line of code at a time! 👩‍💻✨
 
 
 ## 🌐 Socials:
