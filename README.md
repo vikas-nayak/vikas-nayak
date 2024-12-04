@@ -1,5 +1,5 @@
 # About Me:
-full-stack Developer, make cool projects often
+full-stack developer, make cool projects often
 
 
 ## 🌐 Socials:
